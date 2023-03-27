@@ -1,5 +1,4 @@
 # .net7-web-api-superHero
-.NET 7 Web API &amp; Entity Framework CRUD, Repository Pattern, DI, SQL Server
 Implementation study of a web API using .NET 7, Entity Framework, Repository Pattern, Dependency Injection, SQL Server and Swagger
 
 [![.NET Build](https://github.com/ricardocardoso-dev/.net7-web-api-superHero/actions/workflows/dotnet.yml/badge.svg)](https://github.com/ricardocardoso-dev/.net7-web-api-superHero/actions/workflows/dotnet.yml)
