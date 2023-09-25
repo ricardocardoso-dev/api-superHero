@@ -1,4 +1,4 @@
-# .net7-web-api-superHero
+# api-superHero
 
 [![GitHub license](https://img.shields.io/github/license/ricardocardoso-dev/.net7-web-api-superHero?color=brightgreen)](https://github.com/ricardocardoso-dev/.net7-web-api-superHero/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/ricardocardoso-dev/.net7-web-api-superHero?color=brightgreen)](https://github.com/ricardocardoso-dev/.net7-web-api-superHero/issues)
