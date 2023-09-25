@@ -1,13 +1,13 @@
 # api-superHero
 
-[![GitHub license](https://img.shields.io/github/license/ricardocardoso-dev/.net7-web-api-superHero?color=brightgreen)](https://github.com/ricardocardoso-dev/.net7-web-api-superHero/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/ricardocardoso-dev/.net7-web-api-superHero?color=brightgreen)](https://github.com/ricardocardoso-dev/.net7-web-api-superHero/issues)
-[![GitHub stars](https://img.shields.io/github/stars/ricardocardoso-dev/.net7-web-api-superHero?color=brightgreen)](https://github.com/ricardocardoso-dev/.net7-web-api-superHero/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ricardocardoso-dev/.net7-web-api-superHero?color=brightgreen)](https://github.com/ricardocardoso-dev/.net7-web-api-superHero/network)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ricardocardoso-dev/.net7-web-api-superHero?color=brightgreen)](https://github.com/ricardocardoso-dev/.net7-web-api-superHero/commits/main)
-[![.NET Build](https://github.com/ricardocardoso-dev/.net7-web-api-superHero/actions/workflows/dotnet.yml/badge.svg)](https://github.com/ricardocardoso-dev/.net7-web-api-superHero/actions/workflows/dotnet.yml)
-![Lines of code](https://tokei.rs/b1/github/ricardocardoso-dev/.net7-web-api-superHero?category=lines)
-![Lines of code](https://tokei.rs/b1/github/ricardocardoso-dev/.net7-web-api-superHero?category=files)
+[![GitHub license](https://img.shields.io/github/license/ricardocardoso-dev/api-superHero?color=brightgreen)](https://github.com/ricardocardoso-dev/api-superHero/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/ricardocardoso-dev/api-superHero?color=brightgreen)](https://github.com/ricardocardoso-dev/api-superHero/issues)
+[![GitHub stars](https://img.shields.io/github/stars/ricardocardoso-dev/api-superHero?color=brightgreen)](https://github.com/ricardocardoso-dev/api-superHero/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ricardocardoso-dev/api-superHero?color=brightgreen)](https://github.com/ricardocardoso-dev/api-superHero/network)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ricardocardoso-dev/api-superHero?color=brightgreen)](https://github.com/ricardocardoso-dev/api-superHero/commits/main)
+[![.NET Build](https://github.com/ricardocardoso-dev/api-superHero/actions/workflows/dotnet.yml/badge.svg)](https://github.com/ricardocardoso-dev/api-superHero/actions/workflows/dotnet.yml)
+![Lines of code](https://tokei.rs/b1/github/ricardocardoso-dev/api-superHero?category=code)
+![Lines of code](https://tokei.rs/b1/github/ricardocardoso-dev/api-superHero?category=files)
 
 ## Introduction
 Implementation study of a web API using .NET 7, Entity Framework, Repository Pattern, Dependency Injection, SQL Server and Swagger
